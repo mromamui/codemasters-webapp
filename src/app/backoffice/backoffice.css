@@ -1,0 +1,11 @@
+#backoffice {
+    display: flex;
+}
+
+#backoffice nav {
+    flex: 1;
+}
+
+#backoffice section {
+    flex: 3;
+}
