@@ -1,5 +1,6 @@
 import "./backoffice.css";
 
+
 export default function RootLayout({ children }) {
     return (
         <section id="backoffice">
